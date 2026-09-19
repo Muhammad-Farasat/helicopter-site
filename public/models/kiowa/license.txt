@@ -1,0 +1,11 @@
+Model Information:
+* title:	OH-58D Kiowa (USA)
+* source:	https://sketchfab.com/3d-models/oh-58d-kiowa-usa-27ea773bd6c74548b19c697feb84afea
+* author:	42manako (https://sketchfab.com/42manako)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "OH-58D Kiowa (USA)" (https://sketchfab.com/3d-models/oh-58d-kiowa-usa-27ea773bd6c74548b19c697feb84afea) by 42manako (https://sketchfab.com/42manako) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
